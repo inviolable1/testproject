@@ -1,0 +1,8 @@
+{"ts":1360247190618,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":true,"ts":1360247203036,"patch":[[{"diffs":[[1,"<?php\n"]],"start1":0,"start2":0,"length1":0,"length2":6}]],"length":6,"saved":false}
+{"ts":1360247205636,"patch":[[{"diffs":[[0,"<?php\n"],[1,"\necho"]],"start1":0,"start2":0,"length1":6,"length2":11}]],"length":11,"saved":false}
+{"ts":1360247210172,"patch":[[{"diffs":[[0,"hp\n\necho"],[1," 'Hello'"]],"start1":3,"start2":3,"length1":8,"length2":16}]],"length":19,"saved":false}
+{"ts":1360247211263,"patch":[[{"diffs":[[0,"o 'Hello"],[1," w"],[0,"'"]],"start1":10,"start2":10,"length1":9,"length2":11}]],"length":21,"saved":false}
+{"ts":1360247213905,"patch":[[{"diffs":[[0,"llo "],[-1,"w'"],[1,"World';"]],"start1":15,"start2":15,"length1":6,"length2":11}]],"length":26,"saved":false}
+{"ts":1360247219021,"patch":[[{"diffs":[[0," World';"],[1,"\n"]],"start1":18,"start2":18,"length1":8,"length2":9}]],"length":27,"saved":false}
+{"ts":1360247265925,"patch":[[{"diffs":[[0,"lo World"],[1,", I am timwee"],[0,"';\n"]],"start1":16,"start2":16,"length1":11,"length2":24}]],"length":40,"saved":false}
